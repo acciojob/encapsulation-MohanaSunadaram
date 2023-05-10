@@ -8,7 +8,8 @@ public class Main {
 
         rw.setName("Mohan");
 
-        System.out.println(rw.getName());
+        String name = rw.getName();
+        System.out.println(name);
 
 
     }
